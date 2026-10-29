@@ -101,6 +101,8 @@ a. Matplotlib
 b. Seaborn
 - The dashboard clearly communicates insights for non-technical stakeholders.
 
+  ![Smart_real_Estate_Project](screenshot1.png)
+
 ## 📊 Key Insights
 
 1. Living area (sqft_living) is the strongest price driver
