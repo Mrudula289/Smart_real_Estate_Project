@@ -1,6 +1,5 @@
 # 🏠 Smart Real-Estate
 
-**End-to-End Data Analytics Project using Python**
 
 # 📌 Project Overview
 
@@ -129,3 +128,8 @@ b. Seaborn
 
 - Data reflects fair market conditions
 - No major economic fluctuations during the period
+
+## **Final Conclusion:**
+
+This project successfully transformed raw real-estate data with missing values into clean, structured, and insight-driven analytics.
+By applying proper data cleaning, missing value treatment, and visualization techniques, meaningful business insights were extracted that can help real-estate companies optimize pricing strategies and assist buyers in making informed decisions.
