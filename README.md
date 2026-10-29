@@ -101,15 +101,23 @@ a. Matplotlib
 b. Seaborn
 - The dashboard clearly communicates insights for non-technical stakeholders.
 
-## 1. Living Area vs House Price (Scatter Plot)
-- The graph shows a generally positive relationship between living area and house price.
-- Larger houses tend to have higher prices.
-- Some properties are much more expensive than others with similar living areas, suggesting that other factors also influence house prices.
+## 1. Distribution of House Prices
 
-  <img src="screenshot1.png"
+Analysis:
+
+The distribution of house prices is right-skewed.
+
+Most houses fall within the lower-to-middle price ranges.
+
+A small number of properties have exceptionally high prices.
+
+  <img src="screenshot4.png"
      alt="Market Overview"
-     width="550"
+     width="100%"
      height="400">
+
+Conclusion:
+The housing market is dominated by affordable and mid-range properties, while luxury houses represent a smaller proportion of the dataset.
 
 ## 📊 Key Insights
 
