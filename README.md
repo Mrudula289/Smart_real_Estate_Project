@@ -103,7 +103,7 @@ b. Seaborn
 
 ## 1. Distribution of House Prices
 
-Analysis:
+## Analysis:
 
 The distribution of house prices is right-skewed.
 
@@ -116,8 +116,24 @@ A small number of properties have exceptionally high prices.
      width="100%"
      height="400">
 
-Conclusion:
+## Conclusion:
 The housing market is dominated by affordable and mid-range properties, while luxury houses represent a smaller proportion of the dataset.
+
+## 2. Living Area vs. House Price
+
+Analysis:
+
+A strong positive relationship is observed between living area and house price.
+
+Properties with larger living areas generally have higher prices.
+
+   <img src="screenshot1.png"
+     alt="Market Overview"
+     width="100%"
+     height="400">
+
+## Conclusion:
+Living area is an important factor influencing house prices. Larger homes tend to be more expensive, making property size a useful feature for price analysis.
 
 ## 📊 Key Insights
 
