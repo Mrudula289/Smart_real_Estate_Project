@@ -102,6 +102,10 @@ b. Seaborn
 - The dashboard clearly communicates insights for non-technical stakeholders.
 
   ![Smart_real_Estate_Project](screenshot1.png)
+  <img src="screenshot1.png"
+     alt="Market Overview"
+     width="500"
+     height="300">
 
 ## 📊 Key Insights
 
