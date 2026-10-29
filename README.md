@@ -114,7 +114,7 @@ A small number of properties have exceptionally high prices.
   <img src="screenshot4.png"
      alt="Market Overview"
      width="100%"
-     height="400">
+     height="480">
 
 ## Conclusion:
 The housing market is dominated by affordable and mid-range properties, while luxury houses represent a smaller proportion of the dataset.
@@ -130,7 +130,7 @@ Properties with larger living areas generally have higher prices.
    <img src="screenshot1.png"
      alt="Market Overview"
      width="100%"
-     height="400">
+     height="480">
 
 ## Conclusion:
 Living area is an important factor influencing house prices. Larger homes tend to be more expensive, making property size a useful feature for price analysis.
@@ -148,11 +148,31 @@ The relationship may become less consistent for houses with more than six bedroo
 <img src="screenshot3.png"
      alt="Market Overview"
      width="100%"
-     height="400">
+     height="480">
 
 
 ## Conclusion:
 The number of bedrooms influences house prices, but adding more bedrooms does not necessarily guarantee a proportional increase in property value.
+
+
+## 4. Bathrooms vs. House Price
+
+## Analysis:
+
+Properties with more bathrooms generally tend to have higher prices.
+
+Considerable price variation exists among houses with similar bathroom counts.
+
+<img src="screenshot4.png"
+     alt="Market Overview"
+     width="100%"
+     height="480">
+
+
+## Conclusion:
+The number of bathrooms may contribute to property value, but other factors, such as living area, location, and property quality, also influence pricing.
+
+
 
 ## 📊 Key Insights
 
