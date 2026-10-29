@@ -163,7 +163,7 @@ Properties with more bathrooms generally tend to have higher prices.
 
 Considerable price variation exists among houses with similar bathroom counts.
 
-<img src="screenshot4.png"
+<img src="screenshot5.png"
      alt="Market Overview"
      width="100%"
      height="480">
