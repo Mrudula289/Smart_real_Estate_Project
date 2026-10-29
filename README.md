@@ -121,7 +121,7 @@ The housing market is dominated by affordable and mid-range properties, while lu
 
 ## 2. Living Area vs. House Price
 
-Analysis:
+## Analysis:
 
 A strong positive relationship is observed between living area and house price.
 
@@ -134,6 +134,25 @@ Properties with larger living areas generally have higher prices.
 
 ## Conclusion:
 Living area is an important factor influencing house prices. Larger homes tend to be more expensive, making property size a useful feature for price analysis.
+
+## 3. Bedrooms vs. House Price
+
+## Analysis:
+
+House prices generally increase with the number of bedrooms up to a certain point.
+
+Properties with many bedrooms show greater price variation.
+
+The relationship may become less consistent for houses with more than six bedrooms.
+
+<img src="screenshot3.png"
+     alt="Market Overview"
+     width="100%"
+     height="400">
+
+
+## Conclusion:
+The number of bedrooms influences house prices, but adding more bedrooms does not necessarily guarantee a proportional increase in property value.
 
 ## 📊 Key Insights
 
